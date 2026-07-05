@@ -37,7 +37,7 @@ datapond.download('eoir')
 |----------|------|--------|------|--------|
 | [eoir](https://github.com/ian-nason/eoir-database) | 169.2M | 97 | 4.7 GB | DOJ Executive Office for Immigration Review |
 | [ice](https://github.com/ian-nason/ice-database) | 22.1M | 6 | 1.4 GB | Deportation Data Project (FOIA litigation) |
-| [fec](https://github.com/ian-nason/fec-database) | 269.0M | 10 | 29.0 GB | Federal Election Commission |
+| [fec](https://github.com/ian-nason/fec-database) | 347.2M | 10 | 37.7 GB | Federal Election Commission |
 | [clinicaltrials](https://github.com/ian-nason/clinicaltrials-database) | 58.0M | 48 | 6.6 GB | AACT / ClinicalTrials.gov |
 | [cms-medicare](https://github.com/ian-nason/cms-medicare-database) | 132.9M | 3 | 14.6 GB | CMS Medicare Physician & Other Practitioners |
 | [ipeds-db](https://github.com/paulgp/ipeds-database) | 26.7M | 23 | 1.1 GB | NCES Integrated Postsecondary Education Data System |

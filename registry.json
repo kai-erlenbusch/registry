@@ -44,9 +44,9 @@
       "id": "fec",
       "name": "FEC Campaign Finance Database",
       "description": "Individual donations, PAC contributions, committee expenditures, and independent spending across 12 election cycles (2004-2026)",
-      "rows": 269000000,
+      "rows": 347245368,
       "tables": 10,
-      "size_gb": 29.0,
+      "size_gb": 37.7,
       "source": "Federal Election Commission",
       "source_url": "https://www.fec.gov/data/browse-data/?tab=bulk-data",
       "github": "https://github.com/ian-nason/fec-database",
@@ -54,11 +54,11 @@
       "attach_url": "https://huggingface.co/datasets/Nason/fec-database/resolve/main/fec.duckdb",
       "dictionary_url": "https://github.com/ian-nason/fec-database/blob/main/DICTIONARY.md",
       "data_date_range": "2004-2026",
-      "last_rebuilt": "2026-03-16",
+      "last_rebuilt": "2026-07-05",
       "update_frequency": "Quarterly",
       "maintainer": "Ian Nason",
       "license": "Public domain",
-      "updated": "2026-03-01"
+      "updated": "2026-07-05"
     },
     {
       "id": "clinicaltrials",
