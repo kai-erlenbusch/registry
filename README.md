@@ -42,6 +42,8 @@ datapond.download('eoir')
 | [cms-medicare](https://github.com/ian-nason/cms-medicare-database) | 132.9M | 3 | 13.0 GB | CMS Medicare Physician & Other Practitioners |
 | [ipeds-db](https://github.com/paulgp/ipeds-database) | 26.7M | 23 | 1.1 GB | NCES Integrated Postsecondary Education Data System |
 
+See [CHANGELOG.md](CHANGELOG.md) for refresh history.
+
 ## Registry format
 
 The [`registry.json`](registry.json) file contains metadata for all databases. Each entry includes:
