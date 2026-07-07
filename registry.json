@@ -101,6 +101,26 @@
       "updated": "2026-07-05"
     },
     {
+      "id": "openpayments",
+      "name": "CMS Open Payments (Sunshine Act) Database",
+      "description": "Every disclosed industry payment to physicians, non-physician practitioners, and teaching hospitals: general/research/ownership payments with manufacturer, recipient NPI, amount, and nature, PY2013-2025",
+      "rows": 172450995,
+      "tables": 6,
+      "size_gb": 17.5,
+      "source": "CMS Open Payments (openpaymentsdata.cms.gov)",
+      "source_url": "https://openpaymentsdata.cms.gov/datasets",
+      "github": "https://github.com/ian-nason/openpayments-database",
+      "huggingface": "https://huggingface.co/datasets/Nason/openpayments-database",
+      "attach_url": "https://huggingface.co/datasets/Nason/openpayments-database/resolve/main/openpayments.duckdb",
+      "dictionary_url": "https://github.com/ian-nason/openpayments-database/blob/main/DICTIONARY.md",
+      "data_date_range": "2013-2025",
+      "last_rebuilt": "2026-07-07",
+      "update_frequency": "Annual (June publication; January refresh)",
+      "maintainer": "Ian Nason",
+      "license": "Public domain",
+      "updated": "2026-07-07"
+    },
+    {
       "id": "dol-visas",
       "name": "DOL H-1B & PERM Labor Certification Database",
       "description": "Every H-1B/H-1B1/E-3 Labor Condition Application and PERM permanent labor certification disclosed by DOL OFLC: employer, job, SOC code, wages, worksite, case status, FY2015-present",
